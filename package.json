@@ -25,14 +25,15 @@
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
     "ckeditor4-react": "^1.0.0-beta.2",
+    "express": "*",
     "lodash": "^3.10.1",
+    "path": "*",
     "raw-loader": "^3.1.0",
     "react": "16.3.2",
     "react-dom": "16.3.2",
+    "react-https-redirect": "^1.1.0",
     "react-redux": "5.0.7",
     "react-router-dom": "^5.1.1",
-    "redux": "4.0.0",
-    "express": "*",
-    "path": "*"
+    "redux": "4.0.0"
   }
 }
